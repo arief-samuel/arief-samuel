@@ -12,4 +12,4 @@ Here are some ideas to get you started: -->
 - 📫 How to reach me: http://ariefsamuel.cyou
 - 😄 Pronouns: he/him/his
 
-![Arief's github stats](https://github-readme-stats.vercel.app/api?username=arifsamuel&show_icons=true&theme=synthwave)
+![Arief's github stats](https://github-readme-stats.vercel.app/api?username=arief-samuel&show_icons=true&theme=synthwave)
