@@ -3,6 +3,7 @@
 <!-- **arifsamuel/arifsamuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started: -->
+![Arief's github stats](https://github-readme-stats.vercel.app/api?username=arief-samuel&show_icons=true&theme=synthwave)
 
 - 🔭 I’m currently working on Loyal.id
 - 🌱 I’m currently learning .Net Ecosystem
@@ -12,4 +13,5 @@ Here are some ideas to get you started: -->
 - 📫 How to reach me: [arief21](https://arief21.azurewebsites.net/)
 - 😄 Pronouns: he/him/his
 
-![Arief's github stats](https://github-readme-stats.vercel.app/api?username=arief-samuel&show_icons=true&theme=synthwave)
+
+![Arief's github activity graph](https://activity-graph.herokuapp.com/graph?username=arief-samuel&theme=nord)
